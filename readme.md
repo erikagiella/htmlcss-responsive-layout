@@ -22,11 +22,11 @@ Dopo aver analizzato il sito e il markup, dobbiamo soddisfare le richieste del c
 
 ## 🖥️ Modalità Desktop(sopra i 992px)
 
-- [ ] La grandezza del titolo della ricetta aumenta ancora di più
-- [ ] Le informazioni della ricetta tornano a disporsi una sotto l'altra
-- [ ] Il video e le altre informazioni della ricetta si dispongono uno accanto all'altro
-- [ ] Compaiono i nomi delle piattaforme social
-- [ ] Nel footer i dati del sito e il menu di navigazione di dispongono sulla stessa linea ma su lati opposti
+- [x] La grandezza del titolo della ricetta aumenta ancora di più
+- [x] Le informazioni della ricetta tornano a disporsi una sotto l'altra
+- [x] Il video e le altre informazioni della ricetta si dispongono uno accanto all'altro
+- [x] Compaiono i nomi delle piattaforme social
+- [x] Nel footer i dati del sito e il menu di navigazione di dispongono sulla stessa linea ma su lati opposti
 
 
 ## 🛠️ Tecnologie utilizzate
