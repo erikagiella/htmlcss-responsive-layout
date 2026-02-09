@@ -1,1 +1,33 @@
 /* Soluzione qui */
+
+/* Tablet Mode */
+@media screen and (min-width: 769px) {
+    #topbar {
+        justify-content: start;
+    }
+
+    main {
+        padding: 45px;
+
+        .recipe-name {
+            font-size: 2rem;
+
+            .recipe-origin {
+                display: inline;
+            }
+        }
+
+        .quick-notes ul {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+
+            li {
+                width: 30%;
+            }
+        }
+    }
+}
+
+/* Desktop Mode */
+@media screen and (min-width: 993px) {}
