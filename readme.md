@@ -16,9 +16,9 @@ Dopo aver analizzato il sito e il markup, dobbiamo soddisfare le richieste del c
 - [x] Compare il testo "(Dolce Tradizionale)"
 - [x] La grandezza del titolo diventa più grande
 - [x] Le informazioni della ricetta sotto il video si dispongono a griglia
-- [ ] I bottoni social si allargano
-- [ ] Compare il banner pubblicitario
-- [ ] L'immagine nella descrizione della ricetta viene circondata dal testo
+- [x] I bottoni social si allargano
+- [x] Compare il banner pubblicitario
+- [x] L'immagine nella descrizione della ricetta viene circondata dal testo
 
 ## 🖥️ Modalità Desktop(sopra i 992px)
 
