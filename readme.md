@@ -28,6 +28,11 @@ Dopo aver analizzato il sito e il markup, dobbiamo soddisfare le richieste del c
 - [x] Compaiono i nomi delle piattaforme social
 - [x] Nel footer i dati del sito e il menu di navigazione di dispongono sulla stessa linea ma su lati opposti
 
+## 📱 BONUS: Modalità Large Mobile (576px)
+
+- [x] L'immagine nella descrizione della ricetta viene circondata dal testo anche su mobile, ma solo se c'è spazio sufficiente, quindi a partire da 576px
+- [x] I bottoni social si allagano già su dispositivi mobile più grandi (576px)
+
 
 ## 🛠️ Tecnologie utilizzate
 
