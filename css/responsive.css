@@ -76,11 +76,8 @@
         display: flex;
 
         .recipe-video {
-            flex: 0 0 65%;
-        }
-
-        .recipe-info {
-            flex: 1;
+            flex-grow: 1;
+            height: auto;
         }
     }
 
